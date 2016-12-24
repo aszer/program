@@ -1,0 +1,15 @@
+添加开机自启脚本，修改 /ect/rc.local 文件，在里面加上运行该程序的命令，例如
+Python /home/aszer/script/sentip.py
+脚本的路径写成绝对路径
+
+linux帮助文档在 /usr/share/doc文件夹里
+
+tlp电源管理
+
+永久修改alias 修改~/.bashrc中的alias参数
+
+vim 启动YouCompleteMe 按ctrl+空格；选择提示的代码按tab；折叠代码按空格 
+
+卸载软件 sudo apt-get --purge remove packagename
+
+octave配置文件放在/home/aszer/.config/octave/qt-setting
