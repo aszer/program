@@ -1,7 +1,7 @@
 # Server side
 import socket
 # Address
-HOST = '49.140.77.39'
+HOST = ''
 PORT = 8000
 
 # Configure socket
