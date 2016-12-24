@@ -1,7 +1,7 @@
 import socket
 import time
 # Address
-HOST = '49.140.77.39'
+HOST = ''#your server ip address
 PORT = 8000
 address=(HOST,PORT)
 request = 'can you hear me?'
