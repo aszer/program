@@ -8,9 +8,9 @@ import random
 
 # CONFIG
 server = '10.100.61.3'
-username='wanggj5514'#用户名
-password='1256055931wang'#密码
-host_ip = '49.140.77.39'#ip地址
+username=''#用户名
+password=''#密码
+host_ip = ''#ip地址
 mac = 0xDC0EA1F3F1BB#mac地址
 host_name = 'ubuntu'#计算机名
 host_os = 'linux'#操作系统
